@@ -1,0 +1,164 @@
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/0 [idle] active: 
+  postgresql/1 [idle] active: 
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/0 [idle] active: Primary
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/1 [idle] active: 
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/0 [idle] active: Primary
+  postgresql/1 [idle] active: 
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/0 [idle] active: Primary
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/0 [idle] active: Primary
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/1 [idle] maintenance: Executing restart operation
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/1 [idle] active: 
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/1 [idle] active: 
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/1 [idle] active: 
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/1 [idle] active: 
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/0 [idle] active: Primary
+  postgresql/1 [idle] active: 
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/1 [idle] active: 
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/0 [idle] active: Primary
+  postgresql/1 [idle] active: 
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/0 [idle] active: Primary
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/0 [idle] active: Primary
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/0 [idle] active: Primary
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/1 [idle] active: 
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/1 [idle] active: 
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/0 [idle] active: Primary
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/0 [idle] active: Primary
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/0 [idle] active: Primary
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/0 [idle] active: Primary
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/0 [idle] active: Primary
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/1 [idle] active: 
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/2 [idle] waiting: awaiting for member to start
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  postgresql/1 [idle] active: 
+  postgresql/2 [idle] waiting: awaiting for member to start
