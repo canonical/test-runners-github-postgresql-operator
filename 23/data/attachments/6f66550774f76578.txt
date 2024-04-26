@@ -1,0 +1,335 @@
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [executing] active: 
+  pg/1 [executing] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: 
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: 
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: 
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: 
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: 
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: 
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: 
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: 
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
+[32mINFO    [0m juju.model:model.py:2958 Waiting for model:
+  pg/0 [idle] active: 
+  pg/1 [idle] active: Primary
+  pg/2 [idle] active: 
+  pg/3 [allocating] waiting: waiting for machine
