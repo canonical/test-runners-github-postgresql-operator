@@ -1,0 +1,127 @@
+[32mINFO    [0m pytest_operator.plugin:plugin.py:834 Model status:
+
+Model  Controller           Cloud/Region         Version  SLA          Timestamp
+test   localhost-localhost  localhost/localhost  3.1.7    unsupported  02:09:18Z
+
+App                   Version  Status  Scale  Charm                Channel  Rev  Exposed  Message
+mailman3-core                  active      1  mailman3-core        stable    17  no       Ready (source version/commit e1d5a03)
+postgresql            14.11    active      2  postgresql                      0  no       
+postgresql-test-app            active      1  postgresql-test-app  edge     130  no       
+postgresql-test-app2           active      1  postgresql-test-app  edge     130  no       
+
+Unit                     Workload  Agent  Machine  Public address  Ports     Message
+mailman3-core/0*         active    idle   2        10.232.155.211  25/tcp    Ready (source version/commit e1d5a03)
+postgresql-test-app2/0*  active    idle   10       10.232.155.77             
+postgresql-test-app/0*   active    idle   9        10.232.155.22             
+postgresql/2             active    idle   3        10.232.155.24   5432/tcp  
+postgresql/3*            active    idle   4        10.232.155.183  5432/tcp  
+
+Machine  State    Address         Inst id         Base          AZ  Message
+2        started  10.232.155.211  juju-559d7d-2   ubuntu@18.04      Running
+3        started  10.232.155.24   juju-559d7d-3   ubuntu@22.04      Running
+4        started  10.232.155.183  juju-559d7d-4   ubuntu@22.04      Running
+9        started  10.232.155.22   juju-559d7d-9   ubuntu@22.04      Running
+10       started  10.232.155.77   juju-559d7d-10  ubuntu@22.04      Running
+
+[32mINFO    [0m pytest_operator.plugin:plugin.py:840 Juju error logs:
+
+machine-0: 01:28:15 ERROR juju.worker.dependency "broker-tracker" manifold worker returned unexpected error: no container types determined
+machine-0: 01:28:15 ERROR juju.worker.dependency "lxd-container-provisioner" manifold worker returned unexpected error: container types not yet available
+machine-0: 01:28:15 ERROR juju.worker.dependency "kvm-container-provisioner" manifold worker returned unexpected error: container types not yet available
+unit-postgresql-0: 01:28:15 ERROR juju.worker.meterstatus error running "meter-status-changed": charm missing from disk
+machine-1: 01:28:17 ERROR juju.worker.dependency "kvm-container-provisioner" manifold worker returned unexpected error: container types not yet available
+machine-1: 01:28:17 ERROR juju.worker.dependency "lxd-container-provisioner" manifold worker returned unexpected error: container types not yet available
+unit-postgresql-1: 01:28:17 ERROR juju.worker.meterstatus error running "meter-status-changed": charm missing from disk
+unit-postgresql-0: 01:32:57 ERROR unit.postgresql/0.juju-log database-peers:0: Failed to list PostgreSQL database users: could not translate host name "None" to address: Temporary failure in name resolution
+
+machine-2: 01:39:30 ERROR juju.worker.dependency "kvm-container-provisioner" manifold worker returned unexpected error: container types not yet available
+machine-2: 01:39:30 ERROR juju.worker.dependency "lxd-container-provisioner" manifold worker returned unexpected error: container types not yet available
+machine-2: 01:39:30 ERROR juju.worker.dependency "broker-tracker" manifold worker returned unexpected error: no container types determined
+unit-mailman3-core-0: 01:39:30 ERROR juju.worker.meterstatus error running "meter-status-changed": charm missing from disk
+machine-4: 01:44:40 ERROR juju.worker.dependency "lxd-container-provisioner" manifold worker returned unexpected error: container types not yet available
+machine-4: 01:44:40 ERROR juju.worker.dependency "kvm-container-provisioner" manifold worker returned unexpected error: container types not yet available
+machine-4: 01:44:40 ERROR juju.worker.dependency "broker-tracker" manifold worker returned unexpected error: no container types determined
+unit-postgresql-3: 01:44:41 ERROR juju.worker.meterstatus error running "meter-status-changed": charm missing from disk
+machine-3: 01:44:43 ERROR juju.worker.dependency "broker-tracker" manifold worker returned unexpected error: no container types determined
+machine-3: 01:44:43 ERROR juju.worker.dependency "kvm-container-provisioner" manifold worker returned unexpected error: container types not yet available
+machine-3: 01:44:43 ERROR juju.worker.dependency "lxd-container-provisioner" manifold worker returned unexpected error: container types not yet available
+unit-postgresql-2: 01:44:43 ERROR juju.worker.meterstatus error running "meter-status-changed": charm missing from disk
+machine-6: 01:55:58 ERROR juju.worker.dependency "lxd-container-provisioner" manifold worker returned unexpected error: container types not yet available
+machine-6: 01:55:58 ERROR juju.worker.dependency "kvm-container-provisioner" manifold worker returned unexpected error: container types not yet available
+machine-6: 01:55:58 ERROR juju.worker.dependency "broker-tracker" manifold worker returned unexpected error: no container types determined
+unit-sentry1-0: 01:55:58 ERROR juju.worker.meterstatus error running "meter-status-changed": charm missing from disk
+machine-5: 01:55:59 ERROR juju.worker.dependency "kvm-container-provisioner" manifold worker returned unexpected error: container types not yet available
+machine-5: 01:56:00 ERROR juju.worker.dependency "broker-tracker" manifold worker returned unexpected error: no container types determined
+machine-5: 01:56:00 ERROR juju.worker.dependency "lxd-container-provisioner" manifold worker returned unexpected error: container types not yet available
+unit-redis-0: 01:56:00 ERROR juju.worker.meterstatus error running "meter-status-changed": charm missing from disk
+machine-7: 01:56:46 ERROR juju.worker.dependency "lxd-container-provisioner" manifold worker returned unexpected error: container types not yet available
+machine-7: 01:56:46 ERROR juju.worker.dependency "broker-tracker" manifold worker returned unexpected error: no container types determined
+machine-7: 01:56:46 ERROR juju.worker.dependency "kvm-container-provisioner" manifold worker returned unexpected error: container types not yet available
+unit-haproxy-0: 01:56:47 ERROR juju.worker.meterstatus error running "meter-status-changed": charm missing from disk
+unit-postgresql-3: 01:58:26 ERROR unit.postgresql/3.juju-log db:6: ERROR - `extensions` (citext) cannot be requested through relations - Please enable extensions through `juju config` and add the relation again.
+machine-8: 02:01:10 ERROR juju.worker.dependency "lxd-container-provisioner" manifold worker returned unexpected error: container types not yet available
+machine-8: 02:01:10 ERROR juju.worker.dependency "kvm-container-provisioner" manifold worker returned unexpected error: container types not yet available
+machine-8: 02:01:10 ERROR juju.worker.dependency "broker-tracker" manifold worker returned unexpected error: no container types determined
+unit-sentry2-0: 02:01:10 ERROR juju.worker.meterstatus error running "meter-status-changed": charm missing from disk
+unit-postgresql-3: 02:05:22 ERROR unit.postgresql/3.juju-log Failed to list PostgreSQL database users: connection to server at "10.232.155.183", port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+unit-postgresql-3: 02:05:23 ERROR unit.postgresql/3.juju-log Failed to get PostgreSQL version: connection to server at "10.232.155.183", port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+unit-postgresql-3: 02:05:23 ERROR unit.postgresql/3.juju-log 
+Traceback (most recent call last):
+  File "/var/lib/juju/agents/unit-postgresql-3/charm/lib/charms/postgresql_k8s/v0/postgresql.py", line 418, in get_postgresql_version
+    with self._connect_to_database() as connection, connection.cursor() as cursor:
+  File "/var/lib/juju/agents/unit-postgresql-3/charm/lib/charms/postgresql_k8s/v0/postgresql.py", line 127, in _connect_to_database
+    connection = psycopg2.connect(
+  File "/var/lib/juju/agents/unit-postgresql-3/charm/venv/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "10.232.155.183", port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/lib/juju/agents/unit-postgresql-3/charm/src/relations/db.py", line 290, in update_endpoints
+    postgresql_version = self.charm.postgresql.get_postgresql_version()
+  File "/var/lib/juju/agents/unit-postgresql-3/charm/lib/charms/postgresql_k8s/v0/postgresql.py", line 424, in get_postgresql_version
+    raise PostgreSQLGetPostgreSQLVersionError()
+charms.postgresql_k8s.v0.postgresql.PostgreSQLGetPostgreSQLVersionError
+unit-postgresql-3: 02:05:55 ERROR unit.postgresql/3.juju-log Failed to list PostgreSQL database users: connection to server at "10.232.155.183", port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+unit-postgresql-3: 02:05:55 ERROR unit.postgresql/3.juju-log Failed to get PostgreSQL version: connection to server at "10.232.155.183", port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+unit-postgresql-3: 02:05:55 ERROR unit.postgresql/3.juju-log 
+Traceback (most recent call last):
+  File "/var/lib/juju/agents/unit-postgresql-3/charm/lib/charms/postgresql_k8s/v0/postgresql.py", line 418, in get_postgresql_version
+    with self._connect_to_database() as connection, connection.cursor() as cursor:
+  File "/var/lib/juju/agents/unit-postgresql-3/charm/lib/charms/postgresql_k8s/v0/postgresql.py", line 127, in _connect_to_database
+    connection = psycopg2.connect(
+  File "/var/lib/juju/agents/unit-postgresql-3/charm/venv/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "10.232.155.183", port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/lib/juju/agents/unit-postgresql-3/charm/src/relations/db.py", line 290, in update_endpoints
+    postgresql_version = self.charm.postgresql.get_postgresql_version()
+  File "/var/lib/juju/agents/unit-postgresql-3/charm/lib/charms/postgresql_k8s/v0/postgresql.py", line 424, in get_postgresql_version
+    raise PostgreSQLGetPostgreSQLVersionError()
+charms.postgresql_k8s.v0.postgresql.PostgreSQLGetPostgreSQLVersionError
+machine-10: 02:08:30 ERROR juju.worker.dependency "lxd-container-provisioner" manifold worker returned unexpected error: container types not yet available
+machine-10: 02:08:30 ERROR juju.worker.dependency "broker-tracker" manifold worker returned unexpected error: no container types determined
+machine-10: 02:08:30 ERROR juju.worker.dependency "kvm-container-provisioner" manifold worker returned unexpected error: container types not yet available
+unit-postgresql-test-app2-0: 02:08:31 ERROR juju.worker.meterstatus error running "meter-status-changed": charm missing from disk
+machine-9: 02:08:31 ERROR juju.worker.dependency "lxd-container-provisioner" manifold worker returned unexpected error: container types not yet available
+machine-9: 02:08:31 ERROR juju.worker.dependency "kvm-container-provisioner" manifold worker returned unexpected error: container types not yet available
+machine-9: 02:08:32 ERROR juju.worker.dependency "broker-tracker" manifold worker returned unexpected error: no container types determined
+unit-postgresql-test-app-0: 02:08:32 ERROR juju.worker.meterstatus error running "meter-status-changed": charm missing from disk
+
+[32mINFO    [0m pytest_operator.plugin:plugin.py:904 Forgetting main...
